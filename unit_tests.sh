@@ -4,4 +4,4 @@
 
 #pep8 app.py
 
-exit 0
+exit 1
