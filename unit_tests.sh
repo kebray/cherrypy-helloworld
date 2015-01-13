@@ -5,7 +5,9 @@
 #pep8 app.py
 echo "hello world"
 
-exit 0
+
+sleep 10
+exit 1
 
 
 #more comments
