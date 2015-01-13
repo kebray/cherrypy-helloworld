@@ -7,7 +7,7 @@ echo "hello world"
 
 
 sleep 10
-exit 1
+exit 0
 
 
 #more comments
